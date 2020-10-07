@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-[!Linkedin Badge]https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
+<img src="[!Linkedin Badge]https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
