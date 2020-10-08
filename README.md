@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Welcome to my GitHub 👋
-Pronouns:
+- 😄 Linus Torvalds — 'Talk is cheap. Show me the code.'
+- 🤔
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jefferson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jefferson-luiz-cruz-0aa13a59/)](https://www.linkedin.com/in/jefferson-luiz-cruz-0aa13a59/) 
