@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **JeffersonLuizCruz/JeffersonLuizCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
+### Welcome to my GitHub 👋
+Pronouns:
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jefferson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jefferson-luiz-cruz-0aa13a59/)](https://www.linkedin.com/in/jefferson-luiz-cruz-0aa13a59/) 
