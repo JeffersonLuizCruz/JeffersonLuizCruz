@@ -20,7 +20,7 @@ Develop Java
 
 
 - Favorite Operating System? Unix Debian.
-- Three favorite programming language? Java, TypeScript and 😄dont know.
+- Three favorite Programming Language? Java, TypeScript and 😄dont know.
 - Favorite hobby on the web? I like to participate in an internet forum.
 - Development IDE? Eclipse and Visual Studio Code.
 
