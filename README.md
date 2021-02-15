@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 Develop Java
 
 
-- Favorite Operating System? Unix Debian
-- Three favorite programming language? Java, TypeScript and 😄dont know
+- Favorite Operating System? Unix Debian.
+- Three favorite programming language? Java, TypeScript and 😄dont know.
 - Favorite hobby on the web? I like to participate in an internet forum.
+- Development IDE? Eclipse and Visual Studio Code.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jefferson-luiz-cruz-0aa13a59/)](https://www.linkedin.com/in/jefferson-luiz-cruz-0aa13a59/) 
 [![Gmail Badge](https://img.shields.io/badge/-jefferson.luiz.cruz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jefferson.luiz.cruz@gmail.com)](mailto:jefferson.luiz.cruz@gmail.com)
