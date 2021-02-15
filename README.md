@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Welcome to my GitHub 👋
-< ```Private String name = "Jefferson Luiz"```
+### Welcome to my GitHub
+> 😄 Linus Torvalds — 'Talk is cheap. Show me the code.'
+#### ```Private String name = "Jefferson Luiz"```
 Develop Java
-#### 😄 Linus Torvalds — 'Talk is cheap. Show me the code.'
+
 
 - Favorite Operating System? Unix Debian
 - Three favorite programming language? Java, TypeScript and 😄dont know
